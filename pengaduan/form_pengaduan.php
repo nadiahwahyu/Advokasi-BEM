@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Form Pengaduan Mahasiswa</title>
+    <h2>Form Pengaduan Mahasiswa - Ika</h2>
 </head>
 <body>
     <h2>Form Pengaduan Mahasiswa</h2>
