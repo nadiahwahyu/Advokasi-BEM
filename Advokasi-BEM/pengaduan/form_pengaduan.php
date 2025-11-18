@@ -65,7 +65,7 @@
 
 </div>
 
-<!-- FOOTER ELEGAN -->
+<!-- FOOTER SKEMA 2 -->
 <footer style="
     margin-top:40px;
     padding:25px 10px;
