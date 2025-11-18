@@ -12,6 +12,9 @@
         <label>NIM:</label><br>
         <input type="text" name="nim" required><br><br>
 
+        <label>Jurusan:</label><br>
+        <input type="text" name="jurusan"><br><br>
+
         <label>Isi Pengaduan:</label><br>
         <textarea name="isi" rows="5" cols="40" required></textarea><br><br>
 
