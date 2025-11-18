@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<<<<<<< HEAD
     <title>Form Pengaduan Mahasiswa</title>
     <style>
         body {
@@ -42,31 +41,15 @@
             margin-bottom: 15px;
         }
     </style>
-=======
-    <h2>Form Pengaduan Mahasiswa - Ika</h2>
->>>>>>> 9c75dbd9da3fd0b86e4c3f0821a19dac2215ac26
 </head>
-<<<<<<< HEAD
-<body>
-    <h2>Form Pengaduan Mahasiswa (Update Nadiah)</h2>
-    <form method="post" action="simpan_pengaduan.php">
-        <label>Nama:</label><br>
-        Nama: <input type="text" name="nama">
-        Fakultas: <input type="text" name="fakultas">
-=======
->>>>>>> a3d67e03b86249d79083cd57bc88e17386471402
 
 <body>
-<<<<<<< HEAD
 
 <div class="container">
 
     <!-- SKEMA 1 (EDIT BERSAMA) -->
     <h2>Form Pengaduan Mahasiswa - Aina Edit</h2>
 
-=======
-    <h2>Form Pengaduan Mahasiswa (Update Nadiah)</h2>
->>>>>>> 9c75dbd9da3fd0b86e4c3f0821a19dac2215ac26
     <form method="post" action="simpan_pengaduan.php">
         <label>Nama:</label>
         <input type="text" name="nama" required>
@@ -74,23 +57,15 @@
         <label>NIM:</label>
         <input type="text" name="nim" required>
 
-<<<<<<< HEAD
         <label>Isi Pengaduan:</label>
         <textarea name="isi" rows="5" required></textarea>
-=======
-        <label>Jurusan:</label><br>
-        <input type="text" name="jurusan"><br><br>
-
-        <label>Isi Pengaduan:</label><br>
-        <textarea name="isi" rows="5" cols="40" required></textarea><br><br>
->>>>>>> 9c75dbd9da3fd0b86e4c3f0821a19dac2215ac26
 
         <button type="submit">Kirim Pengaduan</button>
     </form>
 
 </div>
 
-<!-- FOOTER ELEGAN -->
+<!-- FOOTER SKEMA 2 -->
 <footer style="
     margin-top:40px;
     padding:25px 10px;
