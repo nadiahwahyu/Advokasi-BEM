@@ -1,3 +1,4 @@
+<!-- test -->
 <?php
 // Jika ingin memakai session login, bisa aktifkan ini:
 // session_start();
