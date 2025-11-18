@@ -7,7 +7,8 @@
     <h2>Form Pengaduan Mahasiswa (Update Nadiah)</h2>
     <form method="post" action="simpan_pengaduan.php">
         <label>Nama:</label><br>
-        <input type="text" name="nama" required><br><br>
+        Nama: <input type="text" name="nama">
+        Fakultas: <input type="text" name="fakultas">
 
         <label>NIM:</label><br>
         <input type="text" name="nim" required><br><br>
