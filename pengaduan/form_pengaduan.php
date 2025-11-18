@@ -4,7 +4,7 @@
     <title>Form Pengaduan Mahasiswa</title>
 </head>
 <body>
-    <h2>Form Pengaduan Mahasiswa</h2>
+    <h2>Form Pengaduan Mahasiswa (Update Nadiah)</h2>
     <form method="post" action="simpan_pengaduan.php">
         <label>Nama:</label><br>
         <input type="text" name="nama" required><br><br>
